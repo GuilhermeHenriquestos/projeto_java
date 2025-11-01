@@ -1,0 +1,15 @@
+com\example\apipedidos\model\Pedido.class
+com\example\apipedidos\dto\PedidoResponseDTO.class
+com\example\apipedidos\config\LoggingHealthIndicator.class
+com\example\apipedidos\service\PedidoService.class
+com\example\apipedidos\exception\PedidoNotFoundException.class
+com\example\apipedidos\dto\ErrorResponse.class
+com\example\apipedidos\dto\FilaStatusDTO.class
+com\example\apipedidos\config\LoggingAspect.class
+com\example\apipedidos\config\LoggingConfiguration.class
+com\example\apipedidos\exception\DadosInvalidosException.class
+com\example\apipedidos\dto\PedidoRequestDTO.class
+com\example\apipedidos\exception\GlobalExceptionHandler.class
+com\example\apipedidos\controller\PedidoController.class
+com\example\apipedidos\repository\PedidoRepository.class
+com\example\apipedidos\ApiPedidosApplication.class
